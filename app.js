@@ -4,7 +4,46 @@ console.log(
 );
 
 // Exercise 1
+let lastName
+var age
 
 // Exercise 2
+const firstName = "Dylan";
+lastName = "Wuu"
+age = 19
 
 // Exercise 3
+let language = "JavaScript"
+let createdYear = 1995
+let isCaseSensitive = true
+
+let price = 19.99
+let isOnSale = false
+let salePercentage = 15
+let stock = 0
+let inStock = false
+let selectedSize = "M"
+
+let title = "Name of the Wind"
+let author = "Patrick Rothfuss"
+let pageCount = 722
+let bookmark = 456
+let hasRead = true
+
+console.log(firstName)
+console.log(lastName)
+console.log(age)
+console.log(language)
+console.log(createdYear)
+console.log(isCaseSensitive)
+console.log(price)
+console.log(isOnSale)
+console.log(salePercentage)
+console.log(stock)
+console.log(inStock)
+console.log(selectedSize)
+console.log(title)
+console.log(author)
+console.log(pageCount)
+console.log(bookmark)
+console.log(hasRead)
